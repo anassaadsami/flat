@@ -5,7 +5,7 @@ public class Flat {
 	int flatNum;
 	static String address = "stockholm";
 	int price = 1000;
-	Flat secondFloor ;
+	Flat secondFloor ;   // Flat class have reference variable of type Flatms
 	static int blanketNum = 0;
 	boolean isSecondFloor ;
 	
