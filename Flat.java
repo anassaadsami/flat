@@ -1,12 +1,13 @@
 package Flat;
 
 public class Flat {
+	
 	int area;
 	int flatNum;
 	static String address = "stockholm";
 	int price = 1000;
 	Flat secondFloor ;   // Flat class have reference variable of type Flat
-	static int blanketNum = 0;
+	static int blanketNum = 0;   // static so every change from any object can effect this variable
 	boolean isSecondFloor ;
 	
 	static {
