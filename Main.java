@@ -17,6 +17,8 @@ public class Main {
 //		
 		f1.compareSecondArea(f2);
 		
+		System.out.println("i can delete this before commit");
+		
 		
 
 	}
