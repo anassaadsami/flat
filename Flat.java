@@ -3,6 +3,7 @@ package Flat;
 public class Flat {
 	// i want change just in local Repository
 	// i dont know how ?????
+	// i hope that now
 	
 	int area;
 	int flatNum;
