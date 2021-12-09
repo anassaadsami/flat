@@ -1,6 +1,7 @@
 package Flat;
 
 public class Flat {
+	// i want change just in local Repository
 	
 	int area;
 	int flatNum;
