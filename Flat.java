@@ -3,7 +3,7 @@ package Flat;
 public class Flat {
 	
 	// this changes is happened in newFlat branch not in master
-	
+	// how can i merge between master branch and sub branches?
 	
 	int area;
 	int flatNum;
