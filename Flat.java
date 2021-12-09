@@ -2,6 +2,9 @@ package Flat;
 
 public class Flat {
 	
+	// this changes is happened in newFlat branch not in master
+	
+	
 	int area;
 	int flatNum;
 	static String address = "stockholm";
